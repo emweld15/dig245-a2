@@ -7,7 +7,7 @@ Using Atom and Git
 
 - [x] Fork this repository and clone it to your `critical-web-design` folder on your machine.
 - [x] Inside `index.html`:
-  - [x) Add appropriate structural HTML tags (doctype, html, head, body, etc.)
+  - [x] Add appropriate structural HTML tags (doctype, html, head, body, etc.)
   - [x] Add some media to this page, like an image of your favorite animal.
   - [x] Using an ordered list, write step by step instructions for viewing the HTML source of a web page in your favorite browser. Include the name of the browser.
   - [x] Invent and add a new unique metaphor for this action (e.g. “Looking under the hood”)
